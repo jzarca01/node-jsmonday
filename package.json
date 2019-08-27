@@ -1,0 +1,22 @@
+{
+  "name": "node-jsmonday",
+  "version": "1.0.0",
+  "description": "API Wrapper for JSMonday.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzarca01/node-jsmonday.git"
+  },
+  "author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzarca01/node-jsmonday/issues"
+  },
+  "homepage": "https://github.com/jzarca01/node-jsmonday#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
