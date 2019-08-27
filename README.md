@@ -1,6 +1,6 @@
 # node-jsmonday
 
-An API Wrapper for (https://jsmonday/dev)[https://jsmonday.dev]
+An API Wrapper for [https://jsmonday.dev](https://jsmonday.dev)
 
 ## Installation
 
